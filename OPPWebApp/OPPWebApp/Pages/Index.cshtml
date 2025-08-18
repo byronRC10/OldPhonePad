@@ -1,0 +1,35 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "OldPhonePad Web";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Old Phone Pad</h1>
+    <p>Input simulation with 1-second timeout</p>
+
+    <form method="post">
+        <input id="inputField" name="UserInput" type="text" class="form-control" />
+        <br />
+        <button type="submit" class="btn btn-primary">Process</button>
+    </form>
+
+    <h3>Result:</h3>
+    <p><strong>@Model.Message</strong></p>
+</div>
+
+@section Scripts {
+    <script>
+        const input = document.getElementById("inputField");
+        let lastKeyTime = Date.now();
+        let waitTime = 1000; 
+
+        input.addEventListener("keydown", function (event) {
+            let now = Date.now();
+            if (now - lastKeyTime > waitTime && input.value.length > 0) {
+                input.value += " ";
+            }
+            lastKeyTime = now;
+        });
+    </script>
+}
