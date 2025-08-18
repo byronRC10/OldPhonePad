@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\OPPClassLibrary\OPPClassLibrary\bin\Debug\net8.0\OPPClassLibrary.deps.json
+C:\Users\Usuario\source\repos\OPPClassLibrary\OPPClassLibrary\bin\Debug\net8.0\OPPClassLibrary.dll
+C:\Users\Usuario\source\repos\OPPClassLibrary\OPPClassLibrary\bin\Debug\net8.0\OPPClassLibrary.pdb
+C:\Users\Usuario\source\repos\OPPClassLibrary\OPPClassLibrary\obj\Debug\net8.0\OPPClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\OPPClassLibrary\OPPClassLibrary\obj\Debug\net8.0\OPPClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\OPPClassLibrary\OPPClassLibrary\obj\Debug\net8.0\OPPClassLibrary.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\OPPClassLibrary\OPPClassLibrary\obj\Debug\net8.0\OPPClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\OPPClassLibrary\OPPClassLibrary\obj\Debug\net8.0\OPPClassLibrary.dll
+C:\Users\Usuario\source\repos\OPPClassLibrary\OPPClassLibrary\obj\Debug\net8.0\refint\OPPClassLibrary.dll
+C:\Users\Usuario\source\repos\OPPClassLibrary\OPPClassLibrary\obj\Debug\net8.0\OPPClassLibrary.pdb
+C:\Users\Usuario\source\repos\OPPClassLibrary\OPPClassLibrary\obj\Debug\net8.0\ref\OPPClassLibrary.dll
