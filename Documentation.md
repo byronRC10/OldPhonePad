@@ -1,11 +1,11 @@
-#OPP (Old Phone Pad) Project Documentation
+OPP (Old Phone Pad) Project Documentation
 Overview
 
 The OPP Project simulates input from an old mobile phone keypad. It provides a library to process numeric sequences into letters, a web interface to test input in real time, and a unit testing project to validate functionality and exception handling.
 
 The project consists of three main components:
 
-Class Library (OPPClassLibrary)
+#Class Library (OPPClassLibrary)
 
 Web Application (OPPWebApp)
 
