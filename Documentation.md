@@ -45,7 +45,7 @@ Spaces between sequences
 
 * to clear the current sequence
 
-character # is ignored
+* character # is ignored
 
 Changes in consecutive digits
 
