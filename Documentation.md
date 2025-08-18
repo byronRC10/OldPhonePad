@@ -105,8 +105,8 @@ Description: Tests exception handling.
 
 Scenarios:
 
-Null input
-Invalid characters
-Out-of-range key presses
-Invalid key access
+Null input, 
+Invalid characters, 
+Out-of-range key presses, 
+Invalid key access, 
 Null input lists
