@@ -5,7 +5,7 @@ The OPP Project simulates input from an old mobile phone keypad. It provides a l
 
 The project consists of three main components:
 
-#Class Library (OPPClassLibrary)
+Class Library (OPPClassLibrary)
 
 Web Application (OPPWebApp)
 
