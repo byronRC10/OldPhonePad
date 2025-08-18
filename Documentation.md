@@ -1,4 +1,4 @@
-OPP (Old Phone Pad) Project Documentation
+#OPP (Old Phone Pad) Project Documentation
 Overview
 
 The OPP Project simulates input from an old mobile phone keypad. It provides a library to process numeric sequences into letters, a web interface to test input in real time, and a unit testing project to validate functionality and exception handling.
@@ -45,7 +45,7 @@ Spaces between sequences
 
 * to clear the current sequence
 
-# is ignored
+character # is ignored
 
 Changes in consecutive digits
 
